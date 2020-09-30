@@ -2,7 +2,7 @@
 
 ## ergodone_v1
 
-![keymapping.image](Layout_v1.png)
+![keymapping.image](Layout_v1_3.png)
 
 - Layer 1: QWERTY layout
 
